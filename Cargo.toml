@@ -1,0 +1,7 @@
+[package]
+name = "read_transform"
+version = "0.1.0"
+authors = ["Vyrtsev Mikhail <reeywhaar@gmail.com>"]
+homepage = "https://github.com/Reeywhaar/read_transform"
+description = "library for functional Read objects processing"
+license = "MIT"
