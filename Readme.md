@@ -32,11 +32,13 @@ assert_eq!(out, [1, 0, 3, 0, 5, 0, 7, 0, 9, 0]);
 ```
 
 # Usage
-Add to your `Cargo.toml`s dependency section:
+Add to your `Cargo.toml`s dependencies section:
 
 ```
-read_transform = { git = "https://github.com/Reeywhaar/read_transform" }
+read_transform = "0.1.0"
 ```
 
 # Documentation
-Documentation available with `cargo doc --no-deps --open` command
+[Link](https://docs.rs/read_transform/0.1.0/read_transform/)
+
+Also available with `cargo doc --no-deps --open` command
